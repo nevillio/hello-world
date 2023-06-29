@@ -1,4 +1,4 @@
-<mxfile modified="2023-06-29T12:28:11.547Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="eD1tp7DoLXA34pdPsjJ1" version="21.5.2" type="github">
+<mxfile modified="2023-06-29T12:50:27.334Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="PTxvdqnY7PxQrndbM5z5" version="21.5.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1165" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -83,6 +83,33 @@
         </mxCell>
         <mxCell id="Wglgy_foU38NRANABu0b-52" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;" vertex="1" parent="1">
           <mxGeometry x="110" y="567.7" width="42" height="42.599999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="Wglgy_foU38NRANABu0b-56" value="Firehose" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="498" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wglgy_foU38NRANABu0b-57" value="Redshift" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="391" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wglgy_foU38NRANABu0b-58" value="Media Storage Bucket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="88" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wglgy_foU38NRANABu0b-59" value="Rekognition" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="158" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wglgy_foU38NRANABu0b-60" value="Transcribe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="159" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wglgy_foU38NRANABu0b-61" value="Appsync" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="488" y="275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wglgy_foU38NRANABu0b-62" value="User Clicks Storage Bucket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="488" y="640" width="62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wglgy_foU38NRANABu0b-63" value="Fiehose" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="286" y="628" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wglgy_foU38NRANABu0b-64" value="Glue Data Catalog" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="499" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

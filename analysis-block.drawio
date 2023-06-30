@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T10:21:57.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="M8VD3WyeUJc9khFPsCsJ" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-30T10:22:56.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="MKEHUk8dD-NbkWt3JkP9" version="21.5.2" type="github">
   <diagram name="Page-1" id="BAIh8IvUHQjET2m_I8Ce">
     <mxGraphModel dx="874" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="KNb0bYC_8jRLz9YMl4nz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KNb0bYC_8jRLz9YMl4nz-1" target="KNb0bYC_8jRLz9YMl4nz-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KNb0bYC_8jRLz9YMl4nz-1" value="Data Warehouse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;strokeColor=#FFD966;" vertex="1" parent="1">
+        <mxCell id="KNb0bYC_8jRLz9YMl4nz-1" value="&lt;font color=&quot;#ffffff&quot;&gt;Data Warehouse&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#812BD6;strokeColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="70" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KNb0bYC_8jRLz9YMl4nz-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KNb0bYC_8jRLz9YMl4nz-2" target="KNb0bYC_8jRLz9YMl4nz-10">

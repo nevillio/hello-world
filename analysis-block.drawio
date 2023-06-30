@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T10:31:12.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" version="21.5.2" etag="4Avjd6gG0r0sBMtndPby" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-30T10:53:58.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="6kF8BWCluN2X5snzyCW2" version="21.5.2" type="github">
   <diagram name="Page-1" id="XJgfeW0EV7LgzFJ4xiEp">
-    <mxGraphModel>
+    <mxGraphModel dx="874" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="syRJA_nW0c1a9XO2yfyS-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="syRJA_nW0c1a9XO2yfyS-1" target="syRJA_nW0c1a9XO2yfyS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syRJA_nW0c1a9XO2yfyS-1" value="Media Storage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD859;" vertex="1" parent="1">
+          <mxGeometry x="111" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syRJA_nW0c1a9XO2yfyS-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="syRJA_nW0c1a9XO2yfyS-3" target="syRJA_nW0c1a9XO2yfyS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syRJA_nW0c1a9XO2yfyS-3" value="Metadata Generator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="321" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syRJA_nW0c1a9XO2yfyS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="syRJA_nW0c1a9XO2yfyS-4" target="syRJA_nW0c1a9XO2yfyS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syRJA_nW0c1a9XO2yfyS-4" value="CMS Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;" vertex="1" parent="1">
+          <mxGeometry x="531" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syRJA_nW0c1a9XO2yfyS-5" value="&lt;font color=&quot;#ffffff&quot;&gt;Data Warehouse&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#812BD6;" vertex="1" parent="1">
+          <mxGeometry x="531" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syRJA_nW0c1a9XO2yfyS-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="syRJA_nW0c1a9XO2yfyS-8" target="syRJA_nW0c1a9XO2yfyS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syRJA_nW0c1a9XO2yfyS-8" value="User Clicks Storage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD859;" vertex="1" parent="1">
+          <mxGeometry x="321" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syRJA_nW0c1a9XO2yfyS-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="syRJA_nW0c1a9XO2yfyS-11" target="syRJA_nW0c1a9XO2yfyS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syRJA_nW0c1a9XO2yfyS-11" value="ETL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#812BD6;" vertex="1" parent="1">
+          <mxGeometry x="111" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syRJA_nW0c1a9XO2yfyS-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="syRJA_nW0c1a9XO2yfyS-14" target="syRJA_nW0c1a9XO2yfyS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syRJA_nW0c1a9XO2yfyS-14" value="&lt;font color=&quot;#ffffff&quot;&gt;Data Ingestion Service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#812BD6;" vertex="1" parent="1">
+          <mxGeometry x="531" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
